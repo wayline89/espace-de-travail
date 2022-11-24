@@ -1,0 +1,36 @@
+
+section {display: flex;
+
+}
+
+section div {
+	width: 50%;
+}
+
+.imageG {
+	width: 100%;
+}
+
+.imageD {
+	width: 100%;
+
+}
+
+.bouton {
+align-content: center;
+background-color: blueviolet;
+color: white;
+
+}
+
+.textD { 
+
+	display: flex;
+	flex-direction: column;
+}
+
+.boubou {
+	display: flex;
+	justify-content: center;
+width: 100%;
+}
