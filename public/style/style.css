@@ -1,5 +1,5 @@
-
-section {display: flex;
+section {
+	display: flex;
 
 }
 
@@ -17,13 +17,13 @@ section div {
 }
 
 .bouton {
-align-content: center;
-background-color: blueviolet;
-color: white;
+	align-content: center;
+	background-color: blueviolet;
+	color: white;
 
 }
 
-.textD { 
+.textD {
 
 	display: flex;
 	flex-direction: column;
@@ -32,5 +32,5 @@ color: white;
 .boubou {
 	display: flex;
 	justify-content: center;
-width: 100%;
+	width: 100%;
 }
